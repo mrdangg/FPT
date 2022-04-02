@@ -24,13 +24,16 @@ html {
     100% {background-image: url('../img/header5.png');}
 }
 
+
+
+
 #header {
     background-image: url('../img/header.png');
     height: 600px;
     background-repeat: no-repeat;
     background-size: 100%;
     animation: example 11s infinite;
-    animation-timing-function: step-end;
+   
 }
 
 #nav {
@@ -533,4 +536,3 @@ html {
     margin-left: 30px;
 }
 
-/* Tầm 3-5k dòng code nhé show code vậy thôi chạy luôn xem thành quả   */
